@@ -5,6 +5,7 @@
 
 .body {
     background-color: rgb(182, 211, 231);
+    min-width: 375px;
 }
 
 .bg {
